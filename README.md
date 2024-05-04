@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShashankWaghmare
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React JS 
-- 💞️ I’m looking to collaborate on React Projects
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning SpringBoot 
+- 💞️ I’m looking to collaborate on SpringBoot Projects
   
 
 <!---
